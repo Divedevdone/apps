@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMCSomativa1</string>
+    <string name="calcular_imc">Calcular</string>
+    <string name="altura_m">Altura (m)</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="calculadora_de_imc">Calculadora de IMC</string>
+    <string name="imc">IMC</string>
+    <string name="leonardo_1112023101925">Leonardo (1112023101925)</string>
+    <string name="um_dos_c_lculos_para_verificar_se_estamos_acima_do_peso_ou_abaixo_devemos_nos_esfor_ar_para_emagrecer_o_imc_ou_seja_o_ndice_de_massa_corporal">Um dos cálculos para verificar se estamos acima do peso ou abaixo devemos nos esforçar para emagrecer é o IMC, ou seja, o índice de massa corporal.</string>
+    <string name="um_dos_c_lculos_para_verificar_se_estamos_acima_ou_abaixo_do_nosso_peso_e_se_devemos_nos_esfor_ar_para_emagrecer_o_imc_ou_seja_o_ndice_de_massa_corporal">Um dos cálculos para verificar se estamos acima ou abaixo do nosso peso e se devemos nos esforçar para emagrecer é o IMC, ou seja, o índice de massa corporal.</string>
+</resources>

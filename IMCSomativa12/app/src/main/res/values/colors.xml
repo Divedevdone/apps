@@ -1,0 +1,12 @@
+<resources>
+    <color name="colorPrimary">#4CAF50</color> <!-- verde padrão Material -->
+    <color name="colorPrimaryVariant">#388E3C</color> <!-- verde escuro -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- texto em cima do botão -->
+    <color name="colorSecondary">#8BC34A</color> <!-- tom secundário -->
+    <color name="colorSecondaryVariant">#689F38</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+</resources>
