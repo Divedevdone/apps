@@ -10,7 +10,8 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="              AGENDA"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/AGENDA"
         android:textSize="34sp" />
 
     <Space
