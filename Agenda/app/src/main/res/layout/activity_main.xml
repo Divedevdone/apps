@@ -21,14 +21,14 @@
         android:id="@+id/editName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Título"
+        android:hint="@string/Título"
         android:minHeight="48dp" />
 
     <EditText
         android:id="@+id/editPhone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Texto"
+        android:hint="@string/Texto"
         android:inputType="textMultiLine"
         android:minLines="3"
         android:maxLines="6"
@@ -40,7 +40,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_width="150dp"
         android:layout_height="50dp"
-        android:text="Adicionar" />
+        android:text="@string/Adicionar" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
