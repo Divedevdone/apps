@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FilmesApp</string>
+    <string name="adicionar_filme">Adicionar filme</string>
+    <string name="salvar">Salvar</string>
+    <string name="descri_o_do_filme">Descrição do filme</string>
+    <string name="t_tulo_do_filme">Título do filme</string>
+    <string name="descrição">Descrição do filme</string>
+    <string name="t_tulo">Título</string>
+    <string name="t_tulos">Título</string>
+    <string name="footer">Footer</string>
+    <string name="detalhes_dos_melhores_nomes">Detalhes dos melhores nomes:</string>
+    <string name="Melhores_nomes">melhores</string>
+</resources>
