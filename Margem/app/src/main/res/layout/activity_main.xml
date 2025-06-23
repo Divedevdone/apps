@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- Toolbar personalizada -->
+
+    <!-- Espaço entre toolbar e conteúdo -->
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#BA0E0E">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/margem"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <!-- Texto das porcentagens -->
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/_20_25_30_35_40"
+        android:gravity="center" />
+
+    <!-- Campo de entrada -->
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="35dp" />
+
+    <EditText
+        android:id="@+id/valorFipeInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:hint="@string/fipe"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:textColorHint="#546E7A" />
+
+    <!-- Resultado -->
+    <TextView
+        android:id="@+id/resultadoView"
+        android:layout_width="match_parent"
+        android:layout_height="400sp"
+        android:paddingTop="5dp"
+        android:gravity="center"
+        android:textSize="30sp"/>
+
+
+    <!-- Rodapé -->
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="80dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="@string/l3"
+        android:gravity="center" />
+
+</LinearLayout>

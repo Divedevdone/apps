@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Margem</string>
+    <string name="digite_o_valor_da_fipe">Digite o valor da FIPE</string>
+    <string name="fipe">FIPE</string>
+    <string name="l3">L3</string>
+    <string name="margem">Margem</string>
+    <string name="_20_25_30_35_40">20% - 25% - 30% - 35% - 40%</string>
+</resources>
